@@ -37,8 +37,8 @@ Hello, I'm a test
 ```
 
 **The following is what you need for this book:**   
-This book is for individuals who want to use Fedora Linux as a workstation for daily system administration tasks and learn how to optimize the distribution's tools for these functions.  Although you should have a basic understanding of Linux and system administration, extensive knowledge of it is not necessary.   
 
+This book is for individuals who want to use Fedora Linux as a workstation for daily system administration tasks and learn how to optimize the distribution's tools for these functions.  Although you should have a basic understanding of Linux and system administration, extensive knowledge of it is not necessary.   
 With the following software and hardware list you can run all code files present in the book (Chapter 1-13).   
 
 ### Software and Hardware List
