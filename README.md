@@ -2,15 +2,16 @@
 
 <a href="https://www.packtpub.com/product/fedora-linux-system-administration/9781804618400"><img src="https://m.media-amazon.com/images/I/81Ze6pXBrQL._SY425_.jpg" alt="Book Name" height="256px" align="right"></a>
 
-This is the code repository for [Fedora Linux System Administration](https://www.packtpub.com/product/fedora-linux-system-administration/9781804618400), published by Packt.
+> This is the code repository for [Fedora Linux System Administration](https://www.packtpub.com/product/fedora-linux-system-administration/9781804618400), published by Packt.
 
 **Install, manage, and secure your Fedora Linux environments**
 
-## What is this book about?
+**What is this book about?**
+
 Fedora Linux is a free and open-source platform designed for hardware, clouds, and containers that enables software developers and community members to create custom solutions for their customers. This book is a comprehensive guide focusing on workstation configuration for the modern system administrator.
 The book begins by introducing you to the philosophy underlying the open-source movement, along with the unique attributes of the Fedora Project that set it apart from other Linux distributions. The chapters outline best practices and strategies for essential system administration tasks, including operating system installation, first-boot configuration, storage, and network setup.
 
-This book covers the following exciting features: 
+This book covers the following exciting features:
 * Discover how to configure a Linux environment from scratch
 * Review the basics of Linux resources and components
 * Familiarize yourself with enhancements and updates made to common Linux desktop tools
